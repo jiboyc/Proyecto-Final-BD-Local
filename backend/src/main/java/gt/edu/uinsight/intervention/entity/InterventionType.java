@@ -6,9 +6,9 @@ package gt.edu.uinsight.intervention.entity;
  */
 public enum InterventionType {
     TUTORING,
-    MEETING,
+    COUNSELING,
     PARENT_CONTACT,
-    ACADEMIC_PLAN,
-    REFERRAL,
-    OTHER
+    ACADEMIC_SUPPORT,
+    OTHER,
+    FOLLOW_UP 
 }

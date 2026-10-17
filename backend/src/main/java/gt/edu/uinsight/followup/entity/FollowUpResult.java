@@ -11,3 +11,9 @@ package gt.edu.uinsight.followup.entity;
  *  - WORSENED
  *  - PENDING
  */
+public enum FollowUpResult {
+    IMPROVED,
+    NO_CHANGE,
+    WORSENED,
+    PENDING
+}
